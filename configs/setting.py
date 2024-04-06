@@ -1,6 +1,6 @@
 
 
-root = '/data/competitions/wangh/kaggle/2023/RSNA-2023-Abdominal-Trauma-Detection'
+root = '/kaggle/input/rsna-2023-abdominal-trauma-detection'
 
 process_root = '/data/competitions/wangh/kaggle/2023/RSNA-2023-Abdominal-Trauma-Detection/process_release'
 #process_root = '/data/competitions/wangh/kaggle/2023/RSNA-2023-Abdominal-Trauma-Detection/process_release_test'
